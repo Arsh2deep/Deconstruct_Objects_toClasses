@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{626AA8D6-3BEC-4DAE-B5E6-30B2D89FBB31}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Deconstruct__Objects__toClasses FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Deconstruct_Objects_toClasses/Program.cs">
+    <Files>
+      <File FileName="Deconstruct_Objects_toClasses/Program.cs" Line="21" Column="21" />
+      <File FileName="Deconstruct_Objects_toClasses/Bicycle.cs" Line="5" Column="17" />
+      <File FileName="Deconstruct_Objects_toClasses/PlayingCards.cs" Line="3" Column="11" />
+      <File FileName="Deconstruct_Objects_toClasses/SunGlasses.cs" Line="3" Column="11" />
+      <File FileName="Deconstruct_Objects_toClasses/Umbrella.cs" Line="3" Column="11" />
+      <File FileName="Deconstruct_Objects_toClasses/NoteBook.cs" Line="23" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
